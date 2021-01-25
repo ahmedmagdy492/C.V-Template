@@ -1,0 +1,36 @@
+
+.container{
+    width: 70%;
+    margin-top: 10px;
+}
+.profile-image{
+    margin: 20px;
+    width: 80%;
+    height: 200px;
+    border-radius: 100% !important;
+}
+.card{
+    background: #dadfe2;
+    border: 3px solid #000;
+}
+.personal{
+    font-weight: bolder;
+    margin-top: 20px;
+}
+.list-group-item{
+    border: none !important;
+}
+.list-group-item2{
+    border: none !important;
+    list-style-type: none;
+    margin-left: 5px;
+    width: 210px !important;
+}
+.left-side{
+    /* background: #004ebe; */
+    background: #009688;
+}
+.education{
+    font-weight: bolder;
+    margin-top: 20px;
+}
